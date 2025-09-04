@@ -8,3 +8,5 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an unserem Projekt interessieren
 4. Reichen Sie einen Pull Request zur Überprüfung ein.
 
 Wir schätzen Ihre Hilfe und freuen uns auf Ihre wertvollen Beiträge!
+
+*Hinweis: Stellen Sie sicher, dass Ihre Änderungen gut dokumentiert sind und den Stilrichtlinien des Projekts entsprechen.*
