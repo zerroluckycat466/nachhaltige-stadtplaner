@@ -1,4 +1,4 @@
-# Mitwirken an Nachhaltige Stadtplaner
+# Mitwirken an nachhaltiger Stadtplanung
 
 Vielen Dank, dass Sie sich für eine Mitwirkung an unserem Projekt interessieren, das sich für nachhaltige Stadtentwicklung einsetzt! Bitte beachten Sie die folgenden Richtlinien, um zu beginnen:
 
