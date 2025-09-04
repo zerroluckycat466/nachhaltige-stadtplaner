@@ -1,10 +1,10 @@
 # Mitwirken an nachhaltiger Stadtplanung
 
-Vielen Dank, dass Sie sich für eine Mitwirkung an unserem Projekt interessieren, das sich für nachhaltige Stadtentwicklung einsetzt! Bitte beachten Sie die folgenden Richtlinien, um zu beginnen:
+Vielen Dank, dass Sie sich für eine Mitwirkung an unserem Projekt interessieren, das sich für nachhaltige Stadtentwicklung einsetzt! Bitte beachten Sie die folgenden Richtlinien, um loszulegen:
 
 1. Forken Sie das Repository.
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen.
 3. Nehmen Sie Ihre Änderungen vor und testen Sie diese gründlich.
 4. Reichen Sie einen Pull Request zur Überprüfung ein.
 
-Wir schätzen Ihre Hilfe und freuen uns auf Ihre Beiträge!
+Wir schätzen Ihre Hilfe und freuen uns auf Ihre wertvollen Beiträge!
